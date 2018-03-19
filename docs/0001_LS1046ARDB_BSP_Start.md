@@ -2,8 +2,8 @@
 
 ## Software Developer Resources Position
 
-![./docs/image/LS1046_Software_Developer_Resources_Position.png](./docs/image/LS1046_Software_Developer_Resources_Position.png)
-![./docs/image/LS1046_Software_Developer_Resources_LS1046_Position.png](./docs/image/LS1046_Software_Developer_Resources_LS1046_Position.png)
+![image/LS1046_Software_Developer_Resources_Position.png](image/LS1046_Software_Developer_Resources_Position.png)
+![image/LS1046_Software_Developer_Resources_LS1046_Position.png](image/LS1046_Software_Developer_Resources_LS1046_Position.png)
 
 ## Start Guide: 
 * [QorIQ LS1046A Reference Design Board Getting Started Guide](https://www.nxp.com/webapp/Download?colCode=LS1046ARDBGSG)
